@@ -1,0 +1,18 @@
+body {
+  margin: 5vh 0vh 5vh 0vh;
+  background: #222;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: sans-serif;
+  color: white;
+}
+
+.main-content {
+  width: 95vw;
+  height: 50vh;
+  background: #1c1c1c;
+  border-radius: 25px;
+}
